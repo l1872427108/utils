@@ -1,0 +1,29 @@
+{
+  "name": "uu-utils",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./dist/uu-utils.js",
+  "repository": "https://github.com/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:watch": "webpack --watch"
+  },
+  "keywords": [
+    "uUtils",
+    "utils",
+    "array",
+    "object",
+    "function",
+    "string",
+    "axios",
+    "promise",
+    "event-bus"
+  ],
+  "author": "Rck",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
