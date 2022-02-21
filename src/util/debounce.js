@@ -5,6 +5,7 @@
  * @param {*} wait 
  * @returns 
  */
+
 export function debounce(func, wait) {
     let timer = null;
     return function () {
